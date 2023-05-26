@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Josep Panadero</title>
+		<link>http://blog.josep-panadero.com/</link>
+		<description>Recent content on blog.josep-panadero.com</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© 2023 Josep Panadero</copyright>
+		<lastBuildDate>Wed, 24 May 2023 22:45:42 +0200</lastBuildDate>
+		<atom:link href="http://blog.josep-panadero.com/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>2023 05 24 Bcn</title>
+			<link>http://blog.josep-panadero.com/posts/2023-05-24-bcn/</link>
+			<pubDate>Wed, 24 May 2023 22:45:42 +0200</pubDate>
+			<guid>http://blog.josep-panadero.com/posts/2023-05-24-bcn/</guid>
+			<description>
+			
+			</description>
+		</item>
+		<item>
+			<title>Archive</title>
+			<link>http://blog.josep-panadero.com/archive/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			<guid>http://blog.josep-panadero.com/archive/</guid>
+			<description>
+			
+			</description>
+		</item>
+		<item>
+			<title>Search</title>
+			<link>http://blog.josep-panadero.com/search/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			<guid>http://blog.josep-panadero.com/search/</guid>
+			<description>
+			
+			</description>
+		</item>
+	</channel>
+</rss>
